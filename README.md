@@ -1,4 +1,4 @@
-# ## Go Backend Template
+# Go Backend Template
 
 This repository provides a starting point for all backend applications build using Go and Gin framework. 
 
